@@ -5,7 +5,8 @@ Bachelor of Business Administration | Double Major in Business Analytics & Suppl
 * Honours Classification: Highest Distinction
 * Dean's List AY2022/2023 Semester 1
 * Dean's List AY2022/2023 Semester 2
-* Member of Beta Gamma Sigma 
+* Member of Beta Gamma Sigma
+
 ## Work Experience
 
 ## Projects
