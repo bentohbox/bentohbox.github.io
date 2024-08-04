@@ -19,3 +19,11 @@ The objective of this project is to build a model that can predict if a transact
 ![Project Image](assets/python_language.png)
 
 This supply chain optimisation problem involves algorithmic programming to automate the placement of cargo within a specific container size. In this project, I created 2 python class objects and wrote an algorithm that packs my list of items into the container from the largest to the smallest.
+
+#### [DBA4761A Final Project: M5 Forecasting](https://github.com/bentohbox/bentohbox.github.io/blob/main/m5-forecasting-dba4761a/report_1.pdf)
+
+![Project Image](assets/r_language.png)
+
+Ranking: 43rd out of 5582 entries | Private Score: 0.664 | Public Score: 0.570 
+
+Aimed at enhancing forecasting accuracy, the team developed a predictive model utilising hierarchical sales data from Walmart, leveraging variables such as price, promotions, and special events to forecast daily sales across stores in California, Texas, and Wisconsin. This project demonstrates the journey of a forecasting project from data exploration, feature engineering, model building, and model evaluation.
