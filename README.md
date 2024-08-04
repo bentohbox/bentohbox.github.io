@@ -1,12 +1,5 @@
 # Data Analytics
 
-## Education
-Bachelor of Business Administration | Double Major in Business Analytics & Supply Chain Management | National University of Singapore
-* First Class Honours
-* Dean's List AY2022/2023 Semester 1
-* Dean's List AY2022/2023 Semester 2
-* Member of Beta Gamma Sigma
-
 ## Projects
 #### [Plane or Car? Image Classification with Neural Networks](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
 
