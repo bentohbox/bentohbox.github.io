@@ -13,3 +13,9 @@ Developed a neural network model to classify images into two categories: plane o
 ![Project Image](assets/python_language.png)
 
 The objective of this project is to build a model that can predict if a transaction is fraudulent. To do so, I utilised LightGBM combined with cross-validation & hyperparameter tuning and evaluated the model performance using AUPRC, Precision, and Specificity. In this project, I demonstrate data visualisation and machine learning concepts. 
+
+#### [3D Container Optimisation](https://github.com/bentohbox/bentohbox.github.io/blob/main/bin-packing-problem/bin-packing-ben.ipynb)
+
+![Project Image](assets/python_language.png)
+
+This supply chain optimisation problem involves algorithmic programming to automate the placement of cargo within a specific container size. In this project, I created 2 python class objects and wrote an algorithm that packs my list of items into the container from the largest to the smallest.
