@@ -14,5 +14,3 @@ Developed a neural network model to classify images into two categories: plane o
 
 ![Project Image](assets/neural_network.png)
 ![Project Image](assets/r_language.png)
-
-[View the project](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
