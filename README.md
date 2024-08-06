@@ -1,4 +1,4 @@
-# Data Analytics
+# Projects
 
 ## Machine Learning
 
