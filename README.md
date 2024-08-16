@@ -1,6 +1,6 @@
 # Projects
 
-## Data Analytics
+## <ins>Data Analytics</ins>
 #### [Uber Rides Business Analytics](https://github.com/bentohbox/bentohbox.github.io/blob/main/uber-analytics/uber-analytics.ipynb)
 
 ![Project Image](assets/python_language.png)
