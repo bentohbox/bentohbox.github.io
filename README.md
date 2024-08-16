@@ -7,7 +7,7 @@
 
 Uber operates in a dynamic environment where matching supply (drivers) with demand (customers) is crucial to maintaining a competitive edge. Understanding the patterns in data is essential for making informed strategic decisions that ensure an optimal balance between supply and demand, reduce operational inefficiencies, and enhance the overall customer experience. The objective is to identify strategic actions that Uber can undertake to better align supply and demand through **Data Analysis** and **Data Visualisation**.
 
-## Machine Learning
+## <ins>Machine Learning</ins>
 
 #### [Plane or Car? Image Classification with Neural Networks](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
 
@@ -29,7 +29,7 @@ Ranking: 43rd out of 5582 entries | Private Score: 0.664 | Public Score: 0.570
 
 Aimed at enhancing **Forecasting Accuracy**, my team developed a predictive model utilising hierarchical sales data from Walmart, leveraging variables such as price, promotions, and special events to forecast daily sales across stores in California, Texas, and Wisconsin. This project demonstrates the journey of a forecasting project from **Data Exploration**, **Feature Engineering**, **Model Building**, and **Model Evaluation**.
 
-## Operations Research
+## <ins>Operations Research</ins>
 
 #### [3D Container Optimisation](https://github.com/bentohbox/bentohbox.github.io/blob/main/bin-packing-problem/bin-packing-ben.ipynb)
 
