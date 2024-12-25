@@ -38,6 +38,7 @@ Aimed at enhancing **Forecasting Accuracy**, my team developed a predictive mode
 This **Supply Chain Optimisation** problem involves algorithmic programming to automate the placement of cargo within a specific container size. In this project, I created 2 python class objects and wrote an algorithm that packs my list of items into the container from the largest to the smallest.
 
 ## <ins>Quantitative Finance</ins>
+![Project Image](assets/python_language.png)
 #### [Stock Price Simulation and Valuation](https://github.com/bentohbox/bentohbox.github.io/blob/main/stock-prediction/stock-monte-carlo.ipynb)
 This **Quantitative Finance** project involves retrieving historical data, obtaining statistics relating to a stock's returns, and making predictions using **Monte Carlo Simulation**.
 In addition, it also includes a **Discounted Cash Flow** model which calculates the intrinsic value based on projected growth rates and discount rates. A graphical representation is provided as an output.
