@@ -42,3 +42,7 @@ This **Supply Chain Optimisation** problem involves algorithmic programming to a
 #### [Stock Price Simulation and Valuation](https://github.com/bentohbox/bentohbox.github.io/blob/main/stock-prediction/stock-monte-carlo.ipynb)
 This **Quantitative Finance** project involves retrieving historical data, obtaining statistics relating to a stock's returns, and making predictions using **Monte Carlo Simulation**.
 In addition, it also includes a **Discounted Cash Flow** model which calculates the intrinsic value based on projected growth rates and discount rates. A graphical representation is provided as an output.
+
+![Project Image](assets/python_language.png)
+#### [Markowitz Portfolio Optimisation](https://github.com/bentohbox/bentohbox.github.io/blob/main/markowitz-portfolio/markowitz-portfolio-project.ipynb)
+This project demonstrates the application of **Modern Portfolio Theory (MPT)** to optimise a portfolio of stocks. Using historical stock price data, it calculates the expected returns, risks, and Sharpe ratios of various portfolios, ultimately identifying an optimal portfolio with the maximum Sharpe ratio. Key concepts such as portfolio diversification, mean-variance optimization, and risk-return trade-offs are highlighted.
