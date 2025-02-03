@@ -7,9 +7,17 @@
 
 Uber operates in a dynamic environment where matching supply (drivers) with demand (customers) is crucial to maintaining a competitive edge. Understanding the patterns in data is essential for making informed strategic decisions that ensure an optimal balance between supply and demand, reduce operational inefficiencies, and enhance the overall customer experience. The objective is to identify strategic actions that Uber can undertake to better align supply and demand through **Data Analysis** and **Data Visualisation**.
 
-## <ins>Machine Learning</ins>
+## <ins>Machine Learning & Deep Learning</ins>
 
-#### [Plane or Car? Image Classification with Neural Networks](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
+#### [Food Vision 101 -  Computer Vision Multiclass Classification with TensorFlow](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
+
+![Project Image](assets/python_language.png)
+
+This project harnesses the power of TensorFlow to develop a deep learning model that classifies 101 different classes of food images. This notebook documents the process that I took, which includes data preprocessing, the design of a convolutional neural network (CNN) using the Keras API, model training, and evaluation. By integrating best practices in computer vision, the project addresses challenges related to image variability and classification accuracy.
+
+The primary objective is to build a CNN that outperforms the DeepFood paper that achieved an accuracy score of 76.3% accuracy.
+
+#### [Plane or Car? Binary Image Classification with Neural Networks](https://github.com/bentohbox/bentohbox.github.io/tree/main/image-classification-kerasR)
 
 ![Project Image](assets/r_language.png)
 
